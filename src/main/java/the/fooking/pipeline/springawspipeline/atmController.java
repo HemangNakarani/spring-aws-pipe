@@ -50,9 +50,9 @@ public class atmController {
                 "\n" +
                 "  <div class='sectionHeroImg'>\n" +
                 "    <h1>\n" +
-                "      Spring\n" +
+                "      Fucking Built On\n" +
                 "      <span>\n" +
-                "        App\n" +
+                "        AWS\n" +
                 "        <p>\n" +
                 "          By Hemang\n" +
                 "        </p>\n" +
